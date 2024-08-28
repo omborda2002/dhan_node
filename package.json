@@ -1,0 +1,31 @@
+{
+  "name": "dhanhq_node",
+  "version": "1.0.1",
+  "description": "The official Python client for communicating with the Dhan API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dhanhq",
+    "dhann",
+    "API",
+    "trading",
+    "api",
+    "stock",
+    "stock",
+    "market",
+    "live",
+    "data",
+    "api",
+    "market",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Om Borda",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
